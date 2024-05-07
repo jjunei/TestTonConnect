@@ -1,5 +1,5 @@
 {
-  "url": "http://3.34.172.35/", // site of your application, in non webgl build use any
-  "name": "Cat Test", // project name, will be displayed in wallet
-  "iconUrl": "http://3.34.172.35/TemplateData/icons/unity-logo-light.png" // project logo, will be displayed in wallet
+  "url": "https://memebattle.app",
+  "name": "Meme Battle on TON",
+  "iconUrl": "https://raw.githubusercontent.com/memebattle-app/configs/main/public/mmblogo.png"
 }
